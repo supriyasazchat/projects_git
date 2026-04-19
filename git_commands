@@ -23,7 +23,6 @@
   822  git status
   823  git push origin master
   824  git remote -v
-  825  git remote set-url origin https://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@github.com/supriyasazchat/projects_git.git 
   826  git remote -v
   827  git push origin master
   828  cd ..
