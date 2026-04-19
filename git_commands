@@ -1,0 +1,16 @@
+  793  git status
+  794  git add testing.py 
+  795  git status
+  796  git rm --cached testing.py 
+  797  gist status
+  798  git status
+  799  git add testing.py 
+  800  git status
+  801  git commit -m "Added testing.py"
+  802  git status
+  803  rm testing.py 
+  804  ls
+  805  git status
+  806  git restore testing.py 
+  807  ls
+  808  git status
