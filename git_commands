@@ -16,7 +16,6 @@
   808  git status
 816  git commit -m "Adding git_commands and testing.py"
   817  git status
-  818  git remote add origin https://github.com/supriyasazchat/projects_git.git
   819  git remove -v
   820  git remote -v
   821  git branch
