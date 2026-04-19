@@ -14,3 +14,19 @@
   806  git restore testing.py 
   807  ls
   808  git status
+816  git commit -m "Adding git_commands and testing.py"
+  817  git status
+  818  git remote add origin https://github.com/supriyasazchat/projects_git.git
+  819  git remove -v
+  820  git remote -v
+  821  git branch
+  822  git status
+  823  git push origin master
+  824  git remote -v
+  825  git remote set-url origin https://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@github.com/supriyasazchat/projects_git.git 
+  826  git remote -v
+  827  git push origin master
+  828  cd ..
+  829  ls
+  830  mkdir git-demo-new
+  831  cd git-demo-new/
